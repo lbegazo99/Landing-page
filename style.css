@@ -1,0 +1,53 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1F2937;
+    
+}
+
+.logo{
+    color: white;
+}
+.links{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1F2937;
+    padding: 100px;
+}
+
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+.right p{
+    color: silver;
+    padding: 50px;
+}
+
+ .left h1{
+    color: white;
+    padding: 0px;
+    display: block;
+}
+
+.left p{
+    color:silver;
+
+}
+
+.left button{
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+
